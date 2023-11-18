@@ -10,3 +10,7 @@ This Python script allows you to perform WHOIS lookups for specified domains. WH
 3. Run the script by entering the following command: python whois.py
 4. Follow the prompts to enter the desired domain for the WHOIS lookup.
 5. The script will display the WHOIS information for the specified domain.
+
+### Resources that helped me:
+1. https://www.binarytides.com/python-program-to-fetch-domain-whois-data-using-sockets/
+2. Youtuber [W J Pearce](https://www.youtube.com/watch?v=tbhYxd2sfAE&t=934s)
